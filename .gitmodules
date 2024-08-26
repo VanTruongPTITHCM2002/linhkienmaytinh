@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/VanTruongPTITHCM2002/linhkienmaytinh.git
